@@ -1,0 +1,1 @@
+I am just adding text to this file so that I can see how the command git diff works. Second Try adding text to file will use git diff before staging to see if works.
